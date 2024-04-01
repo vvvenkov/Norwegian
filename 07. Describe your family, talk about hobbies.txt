@@ -199,4 +199,37 @@ Han er bare en venn - He's only a friend.
 Faren min liker å spille fotball. - My father likes to play football.
 Hvorfor er regningen så dyr? - Why is the bill so expensive?
 Faren min liker ikke å jogge. - My father doesn't like jogging.
-
+Jeg et et barn - I'm a child.
+Sønnen min har en datter - My son has a daughter.
+Jeg er et lite barn - I'm a little child
+Ja, han nar to sønner - Yes, he has two sons.
+Har du fjærester? - Do you have a sweetheart?
+Søsteren min har en datter. - My sister has a daughter.
+Har tanten din en datter? - Does your aunt have a daughter?
+Kjærestenmin har en tante - My sweetheart has an aunt.
+Kjæresten min har en onkle - My sweetheart has an uncle.
+Kjæresten min har en tante - My sweetheart has an aunt.
+Ja, han har to sønnen - Yes, he has two sons.
+Har onkelen din en sønn? - Does your uncle have a son?
+Hun har et barn - She has a child.
+Mannen elsker kvinnen. - The man loves the woman
+Faren min elsker bestefaren min. - My father loves my grandfather
+Hei, snakker du engelsk? - Hello, do you speak English?
+Partneren min elsker bestefaren min - My partner loves my grandfather.
+har bestemoren din en sønn - Does your grandmother have a son?
+Er dere i Oslo - Are you in Oslo?
+Bestemor er gammel - Grandmother is old.
+Hvor i Oslo er du? - Where in Oslo are you?
+Hvor mange romkameraten har bestefaren din? - How many roomates does your granfather have?
+Har bestemoren din en sønn - Does your grandmother have a son?
+Hvem er partneren din? - Who is your partner? 
+Partneren min har ikke en datter - My partner doesn't have a daughter.
+Faren min elsker bestefaren min - My father loves my grandfather.
+Jeg er rik - I'm rich
+Hun er ikke fattig - She's not poor
+Jeg har to barn - I have two children
+Hvor mange barn har han - How many children does he have?
+Mannen min er ikke rik - My husband is not rich.
+Hvor er familien din - Where is your family?
+Hun har en morsom kone - She has a funny wife.
+Hvor mange dagger - How many days?
