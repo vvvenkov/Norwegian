@@ -233,3 +233,7 @@ Mannen min er ikke rik - My husband is not rich.
 Hvor er familien din - Where is your family?
 Hun har en morsom kone - She has a funny wife.
 Hvor mange dagger - How many days?
+Kafeen er der borte - The cafe is over there
+Bakeryet er der borte - The bakery is over there
+Hotellet er til høŧre - The hotel is on the rigth
+Det er kaldt om vinteren - It's cold in the winter.
