@@ -31,7 +31,20 @@ jogger - jog, do...jog, am jogging, jogs
 fotball - soccer
 liker - like, do...like
 De vet. - They know
+--------------------------
+Key phrases:
+Søsteren min har en datter. - My sister has a daugther
 
+Hvor mange barn har han? - How many childnre does he have?
+Han har to barn - He has two children.
+
+Hvem er mannen din? - Who's your husband.
+Hun har en morsom kone. - She has a funny wife.
+---------
+Hva gjør du om morgeren - What are you doing in the morning?
+Hva liker du? - What do you like?
+Liker du å jogge - Do you like jogging?
+Han liker å sŧnge om morgeren - He likes singingin the morning.
 
 Repetition:
 Jeg er et barn - I am a child.
